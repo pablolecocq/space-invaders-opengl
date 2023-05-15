@@ -2,6 +2,8 @@
 *.o
 *.obj
 *.exe
+*.dll
+*.a
 SpaceInvadersGL
 a.out
 
