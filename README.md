@@ -4,6 +4,8 @@ A Space Invaders clone written in **C++** with **OpenGL/GLUT**, built on an obje
 
 Project developed for the **Systems Programming** course (3rd year, Bachelor's in Industrial Technology Engineering — ETSII, UPM), on top of a base skeleton provided by the course.
 
+![Gameplay](media/gameplay.png)
+
 ---
 
 ## Gameplay
