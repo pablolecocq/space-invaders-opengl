@@ -1,0 +1,19 @@
+# Artefactos de compilacion
+*.o
+*.obj
+*.exe
+SpaceInvadersGL
+a.out
+
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+*.user
+
+# Temporales / SO
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
